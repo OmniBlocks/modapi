@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "AGPLv3-or-later",
   "devEngines": {
     "packageManager": {
       "name": "pnpm",
